@@ -1,0 +1,22 @@
+ul li > a {
+    text-decoration: red;
+}
+ul ~ div > p {
+    color: green;
+}
+[href="https://google.com"] {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+[target] {
+    color: green;
+    font-size: 50px;
+}
+*{
+    margin: red;
+    font-size: 30px;
+}
+body h1 + p.special-text {
+    color: green;
+}

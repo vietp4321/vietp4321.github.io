@@ -1,0 +1,24 @@
+h1 {
+color: red;
+font-size: 50px;
+letter-spacing: 3px;
+text-shadow: 2px 2px;
+text-decoration: overline;
+}
+p.uppercase {
+  text-transform: uppercase;
+  text-shadow: 2px 2px;
+text-decoration: overline;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+  text-shadow: 2px 2px;
+text-decoration: overline;
+}
+
+p {
+  text-indent: 50px;
+  text-shadow: 2px 2px;
+text-decoration: overline;
+}

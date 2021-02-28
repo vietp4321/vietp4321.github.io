@@ -1,0 +1,16 @@
+h1 {
+color: red;
+font-size: 50px;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-upper {
+    text-transform: uppercase;
+}
+
+li.text-red {
+    color:blue;
+}
